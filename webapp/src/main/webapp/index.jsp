@@ -1,5 +1,5 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> deployed on    vm</h2>
+<h2> deploying on a container using ansible playbooks </h2>
 <h3> deploying on container </h3>
 <h2> Glad to see you here </h2>
